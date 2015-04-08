@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: dockerboot
-Implementation-Version: 1.0
-Built-By: vdovgaliuc
-Implementation-Vendor-Id: md.victordov.app
-Created-By: IntelliJ IDEA
-Build-Jdk: 1.8.0_40
-Main-Class: dockerboot.DockerbootApplication
-
